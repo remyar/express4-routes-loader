@@ -1,6 +1,6 @@
 {
   "name": "express4-routes-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Simple Express4 Routes Loader",
   "author": "Remy ARNAUDIN <remy.arnaudin@wanadoo.fr>",
   "main": "index.js",
@@ -14,13 +14,12 @@
     "express4-routes-loader",
     "express4-route-loader"
   ],
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/remyar/express4-routes-loader"
   },
- "bugs": {
+  "bugs": {
     "url": "https://github.com/remyar/express4-routes-loader/issues"
   },
   "homepage": "https://github.com/remyar/express4-routes-loader"
