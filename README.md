@@ -3,7 +3,7 @@ A Simple routes Loader for express
 
 ## Install
 ```sh
-npm install --save router-express
+npm install --save express4-routes-loader
 ```
 
 ## Basic usage
